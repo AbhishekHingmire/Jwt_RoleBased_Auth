@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pfpWDQOWUyXCOYC5Cj3Kqg4fqaP1aIBXBgJ8I/idnn8=",
+  "Source": "JwtRoleBasedAuth",
+  "BasePath": "_content/JwtRoleBasedAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
